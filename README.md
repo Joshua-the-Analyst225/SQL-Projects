@@ -1,2 +1,1 @@
-# Portfolio-Projects
-Compilation of personal and academic projects using Excel. Includes finance management, data tracking, load estimation, statistics, protection coordination, and other electrical engineering calculations developed during my BSEE studies and personal projects to boost productivity efficiency.
+This repository composed of data cleaning and exploratory data analysis using SQL from raw data in a database. Processes includes; Importing, Querying, cleaning, Analysis.
